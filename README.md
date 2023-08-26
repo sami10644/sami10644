@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about machine learning and currentl
 ## Get in Touch
 
 - 📫 You can reach me at [abdullahassami@gmail.com](mailto:abdullahassami@gmail.com).
-- 🌐 Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abdullah-as-sami-6a3aa61b9/)).
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah-as-sami-6a3aa61b9/).
 - 💼 Check out my [portfolio website](https://sami10644.github.io/) for more information.
 
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or if you're interested in collaborating!

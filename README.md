@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm passionate about machine learning and currentl
 
 ## About Me
 
-- 👨‍💻 Currently researching BERT syntactic abilities.
-- 🌱 Gradually expanding my knowledge in various ML/DL domains.
+- 👨‍💻 Currently researching Multi-Agent Reasoning and working on RAG project for an Airport.
+- 🌱 Gradually expanding my knowledge in LLM.
 - 💼 Open to opportunities and collaborations in ML/DL projects.
 
 
